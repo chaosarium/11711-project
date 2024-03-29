@@ -1,0 +1,37 @@
+Seed: 10
+=======================================================================
+========== Metaphor xlm_roberta_large LR 5e-6 seed 10 language hi ========
+=======================================================================
+Downloading and preparing dataset csv/default to /root/.cache/huggingface/datasets/csv/default-bc932312b4d2adb9/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317...
+Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/default-bc932312b4d2adb9/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317. Subsequent calls will reuse this data.
+0.503
+=======================================================================
+========== Metaphor xlm_roberta_large LR 5e-6 seed 10 language id ========
+=======================================================================
+Downloading and preparing dataset csv/default to /root/.cache/huggingface/datasets/csv/default-775ea82d8cea9c2c/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317...
+Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/default-775ea82d8cea9c2c/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317. Subsequent calls will reuse this data.
+0.5719298245614035
+=======================================================================
+========== Metaphor xlm_roberta_large LR 5e-6 seed 10 language jv ========
+=======================================================================
+Downloading and preparing dataset csv/default to /root/.cache/huggingface/datasets/csv/default-4bf338ea307a85fa/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317...
+Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/default-4bf338ea307a85fa/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317. Subsequent calls will reuse this data.
+0.5483333333333333
+=======================================================================
+========== Metaphor xlm_roberta_large LR 5e-6 seed 10 language kn ========
+=======================================================================
+Downloading and preparing dataset csv/default to /root/.cache/huggingface/datasets/csv/default-c04dd5c77740af77/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317...
+Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/default-c04dd5c77740af77/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317. Subsequent calls will reuse this data.
+0.5108514190317195
+=======================================================================
+========== Metaphor xlm_roberta_large LR 5e-6 seed 10 language su ========
+=======================================================================
+Downloading and preparing dataset csv/default to /root/.cache/huggingface/datasets/csv/default-f93466ead36102d3/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317...
+Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/default-f93466ead36102d3/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317. Subsequent calls will reuse this data.
+0.53
+=======================================================================
+========== Metaphor xlm_roberta_large LR 5e-6 seed 10 language sw ========
+=======================================================================
+Downloading and preparing dataset csv/default to /root/.cache/huggingface/datasets/csv/default-d573a0d1b594b7b3/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317...
+Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/default-d573a0d1b594b7b3/0.0.0/6b34fb8fcf56f7c8ba51dc895bfa2bfbe43546f190a60fcf74bb5e8afdcc2317. Subsequent calls will reuse this data.
+0.5400728597449909
