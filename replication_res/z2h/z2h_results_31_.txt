@@ -1,0 +1,126 @@
+ARGS
+xlm_roberta_base2/ckpts_seed31_lr2e-5/
+
+/root/Multilingual-Fig-QA
+2e-5
+31
+hi: 2
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_2/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_2/ckpts_seed31_lr2e-5
+0.6234939759036144
+hi: 4
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_4/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_4/ckpts_seed31_lr2e-5
+0.623991935483871
+hi: 6
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_6/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_6/ckpts_seed31_lr2e-5
+0.6234817813765182
+hi: 8
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_8/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_8/ckpts_seed31_lr2e-5
+0.6239837398373984
+hi: 10
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_10/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//hi_10/ckpts_seed31_lr2e-5
+0.6234693877551021
+id: 2
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_2/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_2/ckpts_seed31_lr2e-5
+0.7068661971830986
+id: 4
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_4/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_4/ckpts_seed31_lr2e-5
+0.7067137809187279
+id: 6
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_6/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_6/ckpts_seed31_lr2e-5
+0.7065602836879432
+id: 8
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_8/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_8/ckpts_seed31_lr2e-5
+0.7064056939501779
+id: 10
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_10/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//id_10/ckpts_seed31_lr2e-5
+0.7053571428571429
+jv: 2
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_2/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_2/ckpts_seed31_lr2e-5
+0.5419463087248322
+jv: 4
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_4/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_4/ckpts_seed31_lr2e-5
+0.5405405405405406
+jv: 6
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_6/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_6/ckpts_seed31_lr2e-5
+0.54421768707483
+jv: 8
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_8/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_8/ckpts_seed31_lr2e-5
+0.5462328767123288
+jv: 10
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_10/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//jv_10/ckpts_seed31_lr2e-5
+0.5482758620689655
+kn: 2
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_2/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_2/ckpts_seed31_lr2e-5
+0.5368509212730318
+kn: 4
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_4/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_4/ckpts_seed31_lr2e-5
+0.5378151260504201
+kn: 6
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_6/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_6/ckpts_seed31_lr2e-5
+0.5370994940978078
+kn: 8
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_8/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_8/ckpts_seed31_lr2e-5
+0.5363790186125211
+kn: 10
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_10/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//kn_10/ckpts_seed31_lr2e-5
+0.5365025466893039
+su: 2
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_2/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_2/ckpts_seed31_lr2e-5
+0.5453020134228188
+su: 4
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_4/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_4/ckpts_seed31_lr2e-5
+0.543918918918919
+su: 6
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_6/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_6/ckpts_seed31_lr2e-5
+0.54421768707483
+su: 8
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_8/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_8/ckpts_seed31_lr2e-5
+0.5428082191780822
+su: 10
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_10/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//su_10/ckpts_seed31_lr2e-5
+0.5431034482758621
+sw: 2
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_2/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_2/ckpts_seed31_lr2e-5
+0.5393053016453382
+sw: 4
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_4/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_4/ckpts_seed31_lr2e-5
+0.5394495412844037
+sw: 6
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_6/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_6/ckpts_seed31_lr2e-5
+0.5405156537753223
+sw: 8
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_8/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_8/ckpts_seed31_lr2e-5
+0.5406654343807763
+sw: 10
+TEST PATH: ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_10/ckpts_seed31_lr2e-5
+PYTHON PATH ./xlm_roberta_base2/ckpts_seed31_lr2e-5//sw_10/ckpts_seed31_lr2e-5
+0.5398886827458256
